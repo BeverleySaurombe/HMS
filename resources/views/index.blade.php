@@ -68,8 +68,8 @@
             <div class="message-box">
                <h4>What We Do</h4>
                <h2>Clinic Service</h2>
-               <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p>
-               <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  </p>
+               <p class="lead">Each person needs a certain author's unerring guidance. Some seek a vehicle for themselves, not some other arrangement. There is a desire for a certain worthy dignity.</p>
+               <p> The course of life is connected with worthy learning. Difficulties bring forth concerns and obligations. Growth and change are part of life's challenges. Together with companions, people are born into circumstances both great and small, facing the varied experiences of life.  </p>
                <a href="#services" data-scroll class="btn btn-light btn-radius btn-brd grd1 effect-1">Learn More</a>
             </div>
             <!-- end messagebox -->
