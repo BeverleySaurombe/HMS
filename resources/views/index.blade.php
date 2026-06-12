@@ -23,10 +23,10 @@
    <div class="container">
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
          <div class="row">
-            <div class="service-time one" style="background:#2895f1;">
+            <div class="service-time one" style="background:blue;">
                <span class="info-icon"><i class="fa fa-ambulance" aria-hidden="true"></i></span>
                <h3>Emergency Case</h3>
-               <p>Dignissimos ducimus qui blanditii sentium volta tum deleniti atque cori as quos dolores et quas mole.</p>
+               <p>We esteem and guide those who are worthy, while rejecting pleasures and avoiding pains and troubles.</p>
             </div>
          </div>
       </div>
@@ -50,7 +50,7 @@
             <div class="service-time three" style="background:#0060b1;">
                <span class="info-icon"><i class="fa fa-hospital-o" aria-hidden="true"></i></span>
                <h3>Clinic Timetable</h3>
-               <p>Dignissimos ducimus qui blanditii sentium volta tum deleniti atque cori as quos dolores et quas mole.</p>
+               <p>We esteem and guide those who are worthy, while rejecting pleasures and avoiding pains and troubles.</p>
             </div>
          </div>
       </div>
@@ -141,42 +141,42 @@
                    <div class="serv">
                       <span class="icon-service"><img src="images/service-icon1.png" alt="#" /></span>
                       <h4>PREMIUM FACILITIES</h4>
-                      <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                      <p>State-of-the-art medical equipment, modern patient rooms, and advanced diagnostic technology for exceptional healthcare.</p>
                    </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                    <div class="serv">
                       <span class="icon-service"><img src="images/service-icon2.png" alt="#" /></span>
                       <h4>LARGE LABORATORY</h4>
-                      <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                      <p>Fully equipped laboratory offering accurate testing, rapid results, and comprehensive diagnostic services.</p>
                    </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                    <div class="serv">
                       <span class="icon-service"><img src="images/service-icon3.png" alt="#" /></span>
                       <h4>DETAILED SPECIALIST</h4>
-                      <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                      <p>Experienced specialists across multiple disciplines providing personalized treatment and expert medical care.</p>
                    </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                    <div class="serv">
                       <span class="icon-service"><img src="images/service-icon4.png" alt="#" /></span>
                       <h4>CHILDREN CARE CENTER</h4>
-                      <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                      <p>Dedicated pediatric care with child-friendly facilities, skilled doctors, and compassionate support for families.</p>
                    </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                    <div class="serv">
                       <span class="icon-service"><img src="images/service-icon5.png" alt="#" /></span>
                       <h4>FINE INFRASTRUCTURE</h4>
-                      <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                      <p>Modern healthcare infrastructure designed for patient comfort, safety, and efficient medical services.</p>
                    </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                    <div class="serv">
                       <span class="icon-service"><img src="images/service-icon6.png" alt="#" /></span>
                       <h4>ANYTIME BLOOD BANK</h4>
-                      <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                      <p>24/7 blood bank services ensuring safe, reliable, and timely blood availability for emergencies and treatments.</p>
                    </div>
                 </div>
              </div>
